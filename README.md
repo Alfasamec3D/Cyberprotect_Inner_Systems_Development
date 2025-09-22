@@ -14,3 +14,7 @@
 В той же директории используйте команду
 
 `make run`
+
+## Ссылка на GitHub репозиторий
+
+`https://github.com/Alfasamec3D/Cyberprotect_Inner_Systems_Development`
